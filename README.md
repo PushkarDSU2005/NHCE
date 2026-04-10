@@ -57,7 +57,7 @@ GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, 
 
 ### 🌐 Landing Page (Homepage)
 
-![Landing Page](./assets/1.png)
+![Landing Page](./1.png)
 
 The homepage introduces the platform with a strong value proposition:
 **Borderless Payments + Trustworthy Work.**
@@ -72,7 +72,7 @@ Key highlights:
 
 ### 📊 Dashboard
 
-![Dashboard](./assets/2.png)
+![Dashboard](./2.png)
 
 The dashboard provides a complete overview of user activity and system intelligence:
 
@@ -86,7 +86,7 @@ The dashboard provides a complete overview of user activity and system intellige
 
 ### 🌍 Transaction Map (Real-Time)
 
-![Transaction Map](./assets/3.png)
+![Transaction Map](./3.png)
 
 A real-time visualization of global transactions:
 
@@ -99,7 +99,7 @@ A real-time visualization of global transactions:
 
 ### 📈 Analytics Dashboard
 
-![Analytics](./assets/4.png)
+![Analytics](./4.png)
 
 A data-driven financial analytics engine:
 
@@ -112,7 +112,7 @@ A data-driven financial analytics engine:
 
 ### 👛 Wallet System
 
-![Wallet](./assets/5.png)
+![Wallet](./5.png)
 
 A powerful multi-currency wallet integrated with blockchain:
 
@@ -125,7 +125,7 @@ A powerful multi-currency wallet integrated with blockchain:
 
 ### 🪪 KYC & AML + Decentralized Identity
 
-![KYC & AML](./assets/6.png)
+![KYC & AML](./6.png)
 
 Compliance and identity system ensuring trust:
 
