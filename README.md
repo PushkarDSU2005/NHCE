@@ -46,7 +46,7 @@ GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, 
      │ • AML Checks         │    │ • ETH / USDC         │    │ • Transaction Map    │
      │ • GDPR Privacy       │    │ • Conversion Engine  │    │ • Live Updates       │
      │ • Access Control     │    │ • Fee Optimization   │    │ • Event Streaming    │
-     └──────────────────────┘    └──────────────────────┘    └──────────────────────┘
+     └──────────────────────┘    ┌──────────────────────┘    └──────────────────────┘
 ```
 
 ---
@@ -57,7 +57,7 @@ GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, 
 
 ### 🌐 Landing Page (Homepage)
 
-![Landing Page](./1.png)
+![Landing Page](./assets/1.png)
 
 The homepage introduces the platform with a strong value proposition:
 **Borderless Payments + Trustworthy Work.**
@@ -72,7 +72,7 @@ Key highlights:
 
 ### 📊 Dashboard
 
-![Dashboard](./2.png)
+![Dashboard](./assets/2.png)
 
 The dashboard provides a complete overview of user activity and system intelligence:
 
@@ -86,7 +86,7 @@ The dashboard provides a complete overview of user activity and system intellige
 
 ### 🌍 Transaction Map (Real-Time)
 
-![Transaction Map](./3.png)
+![Transaction Map](./assets/3.png)
 
 A real-time visualization of global transactions:
 
@@ -99,7 +99,7 @@ A real-time visualization of global transactions:
 
 ### 📈 Analytics Dashboard
 
-![Analytics](./4.png)
+![Analytics](./assets/4.png)
 
 A data-driven financial analytics engine:
 
@@ -112,7 +112,7 @@ A data-driven financial analytics engine:
 
 ### 👛 Wallet System
 
-![Wallet](./5.png)
+![Wallet](./assets/5.png)
 
 A powerful multi-currency wallet integrated with blockchain:
 
@@ -125,7 +125,7 @@ A powerful multi-currency wallet integrated with blockchain:
 
 ### 🪪 KYC & AML + Decentralized Identity
 
-![KYC & AML](./6.png)
+![KYC & AML](./assets/6.png)
 
 Compliance and identity system ensuring trust:
 
@@ -271,7 +271,7 @@ Compliance and identity system ensuring trust:
 
 ---
 
-## 👨‍💻 Author
+## 👨💻 Author
 
 Pushkar Raj Jaiswal
 
@@ -287,5 +287,3 @@ It is a **complete fintech ecosystem prototype** demonstrating:
 👉 AI Financial Intelligence
 👉 Decentralized Identity
 👉 Real-Time Global Finance
-
----
